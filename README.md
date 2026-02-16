@@ -19,7 +19,7 @@ It automates repetitive reporting tasks by:
 ---
 ## 📂 Sample Files 
 - Input: [`DEMO_WAFERMAP_08.wmap.csv` ](https://github.com/roannelafuente/CSV-Workflow-Automation.1/blob/main/DEMO_WAFERMAP_08.wmap.csv) 
-- Output: [`DEMO_WAFERMAP_08.wmap v1.1.1 output.xlsx`](https://github.com/roannelafuente/CSV-Workflow-Automation.1/blob/main/DEMO_WAFERMAP_08.wmap.xlsx)  
+- Output: [`DEMO_WAFERMAP_08.wmap.xlsx`](https://github.com/roannelafuente/CSV-Workflow-Automation.1/blob/main/DEMO_WAFERMAP_08.wmap.xlsx)  
 - Dashboard Screenshot: `CSV Workflow Automation Tool Dashboard.png`  
 
 These files are dummy inputs included for demonstration purposes only. They are synthetic examples and do not contain any client or company data. Their purpose is to allow recruiters and collaborators to quickly test the workflow and visualize the results.
