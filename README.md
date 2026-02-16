@@ -20,7 +20,7 @@ It automates repetitive reporting tasks by:
 
 ## 📸 Screenshots
 ## GUI Dashboard
-![GUI Dashboard](https://github.com/roannelafuente/deliverables-automation/blob/main/gui_demo.png)
+![GUI Dashboard]()
 
 ---
 
