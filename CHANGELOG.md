@@ -34,7 +34,7 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Fixed issue where numeric `C1_MARK` values (e.g., `"1.0"`) failed to match intended color mapping keys (e.g., `"1"`).  
 - Values are now normalized to ensure consistent lookups.  
 - Special characters and alphanumeric mappings remain unaffected.  
-➡️ [View v1.1.1 Patch](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.1/releases/tag/v1.1.1)
+➡️ [View v1.1.1 Patch](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.1)
 
 ## v1.1.2 – Centralized Error Handling & Architecture Update
 - Integrated **ErrorLogger** for robust error management:
@@ -49,4 +49,4 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
   - Custom `sprout.ico` icon for professional presentation.
   - Developer credit and version label included in the interface.
 - Documentation improvements with consistent docstrings and portfolio-ready structure.
-➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2)
+➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2))
