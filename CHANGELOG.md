@@ -35,3 +35,18 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Values are now normalized to ensure consistent lookups.  
 - Special characters and alphanumeric mappings remain unaffected.  
 ➡️ [View v1.1.1 Patch](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.1/releases/tag/v1.1.1)
+
+## v1.1.2 – Centralized Error Handling & Architecture Update
+- Integrated **ErrorLogger** for robust error management:
+  - Auto-creates timestamped error log files in a dedicated `/logs` folder.
+  - Cleans up logs older than 30 days automatically.
+  - Ensures consistent error capture across all modules with GUI + file logging.
+- Refactored into a **modular, multi-class design** for cleaner architecture and maintainability.
+- Added helper functions for normalization and header lookup to improve reliability.
+- Optimized bulk operations for speed and efficiency in CSV → Excel conversions.
+- Enhanced GUI branding:
+  - Scrollable status box for improved log navigation.
+  - Custom `sprout.ico` icon for professional presentation.
+  - Developer credit and version label included in the interface.
+- Documentation improvements with consistent docstrings and portfolio-ready structure.
+➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2)
